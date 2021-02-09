@@ -10,5 +10,6 @@ function calculateSales() {
     Tax=Price*TaxRate
     Total=Price+Tax
     spTotal.innerHTML=Total.toFixed(2)
+	//this is my comment
 }
 
